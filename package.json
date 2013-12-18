@@ -1,23 +1,23 @@
 {
-  "name": "grunt-mocha-webdriver",
-  "version": "0.9.13",
-  "description": "Grunt task to run Mocha tests against a Selenium grid",
+  "name": "grunt-mocha-webdriver-painful",
+  "version": "0.9.14b",
+  "description": "Grunt task to run Mocha tests against a Selenium grid or local Selenium instance",
   "main": "index.js",
   "scripts": {
     "test": "grunt test"
   },
-  "author": "Justin Reidy <jmreidy@rzrsharp.net>",
+  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com>",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/jmreidy/grunt-mocha-sauce/blob/master/LICENSE-MIT"
+      "url": "https://github.com/bevacqua/grunt-mocha-webdriver-painful/blob/master/LICENSE-MIT"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jmreidy/grunt-mocha-sauce.git"
+    "url": "https://github.com/bevacqua/grunt-mocha-webdriver-painful.git"
   },
-  "bugs": "https://github.com/jmreidy/grunt-mocha-sauce/issues/",
+  "bugs": "https://github.com/bevacqua/grunt-mocha-webdriver-painful/issues/",
   "keywords": [
     "gruntplugin"
   ],
